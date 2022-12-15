@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ctc
+ *
+ */
+module any {
+}
